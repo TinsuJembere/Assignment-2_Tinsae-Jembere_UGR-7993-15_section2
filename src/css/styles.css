@@ -67,7 +67,7 @@ a.red {
 
 
 .header { 
-    background-image: url(../images/header_bg.jpg);
+    background-color: black;
     padding:0 12%;  
 }
 .header_resize { 
